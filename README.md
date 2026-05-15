@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/durotto-bhalo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Durotto Bhalo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/durotto-bhalo/) |
+| **Get License** | [Request Licensing for Durotto Bhalo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/durotto-bhalo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a9ced856f75ce5436196dca10000ed432d1693863198348f3b272f18d577a55c` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

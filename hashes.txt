@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Durotto Bhalo
+
+This log tracks the cryptographic history and versioning for the song **Durotto Bhalo** (durotto-bhalo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T05:16:49.936770 | `v1` | `a9ced856f75ce5436196dca10000ed432d1693863198348f3b272f18d577a55c` | `8b6b996a59c47e098b8dfdfe8350d0de9958c19d0958063b678f89197a68e8bd` | `2026-05-16_durotto-bhalo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
