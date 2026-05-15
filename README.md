@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/durotto-bhalo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Durotto Bhalo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/durotto-bhalo/) |
+| **Get License** | [Music Rights & Licensing for Durotto Bhalo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/durotto-bhalo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের এই নীরবতায় তোমার ছায়া খুঁজি
+> অন্ধকারের মাঝে আমি তোমার স্বপ্ন বুনি
+> এই যে একটু দূরত্ব, তাতেও ভালো লাগে
+> কাছে আসার এই নেশা বুকের ভেতর জাগে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
